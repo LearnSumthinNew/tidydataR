@@ -21,7 +21,3 @@ Data Zip File: UCI Machine Learning Repo
 
 Data Description: link
 
-References:
-thoughtful bloke blog
-melting and casting article
-codebook guide
